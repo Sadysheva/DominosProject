@@ -1,0 +1,62 @@
+{
+  "uid" : "18443b71f777adc4",
+  "name" : "order one default pizza from pizza page",
+  "fullName" : "Orders.order one default pizza from pizza page",
+  "historyId" : "4ff7f9cb349f7f12483a0d4cc599c1aa",
+  "time" : {
+    "start" : 1653311283598,
+    "stop" : 1653311285731,
+    "duration" : 2133
+  },
+  "description" : "Добавление в корзину МитЧиз пиццы со страницы Пицца. Проверка наличиня кнопки \"изменить количество",
+  "descriptionHtml" : "<p>Добавление в корзину МитЧиз пиццы со страницы Пицца. Проверка наличиня кнопки &quot;изменить количество</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "Orders"
+  }, {
+    "name" : "testClass",
+    "value" : "Orders"
+  }, {
+    "name" : "testMethod",
+    "value" : "order one default pizza from pizza page"
+  }, {
+    "name" : "package",
+    "value" : "Orders"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "18443b71f777adc4.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

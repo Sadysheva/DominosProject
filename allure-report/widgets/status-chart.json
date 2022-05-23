@@ -1,0 +1,241 @@
+[ {
+  "uid" : "450439b4d2a9eb4c",
+  "name" : "order two the same defaul pizzas from pizza page",
+  "time" : {
+    "start" : 1653311286934,
+    "stop" : 1653311288011,
+    "duration" : 1077
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a1831a269a28b148",
+  "name" : "add adress",
+  "time" : {
+    "start" : 1653311289115,
+    "stop" : 1653311297397,
+    "duration" : 8282
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9e2dd6e69fe6c4e6",
+  "name" : "order one default pizza from product card",
+  "time" : {
+    "start" : 1653311275860,
+    "stop" : 1653311283598,
+    "duration" : 7738
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3ad48f626f5b99d5",
+  "name" : "login with valid credentials",
+  "time" : {
+    "start" : 1653311275846,
+    "stop" : 1653311285251,
+    "duration" : 9405
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7133a82085f1ade7",
+  "name" : "check title link \"/sauce\"",
+  "time" : {
+    "start" : 1653311294398,
+    "stop" : 1653311295353,
+    "duration" : 955
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e5e547385b2001c6",
+  "name" : "order one big mitchiz pizza from pizza page",
+  "time" : {
+    "start" : 1653311285734,
+    "stop" : 1653311286934,
+    "duration" : 1200
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "905d394f51b4b68f",
+  "name" : "change customs name",
+  "time" : {
+    "start" : 1653311275904,
+    "stop" : 1653311289114,
+    "duration" : 13210
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bb4335edd49d8928",
+  "name" : "log out",
+  "time" : {
+    "start" : 1653311351454,
+    "stop" : 1653311353076,
+    "duration" : 1622
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7fdbbcc96d85def4",
+  "name" : "input not the same password in \"repeat password\" field",
+  "time" : {
+    "start" : 1653311315197,
+    "stop" : 1653311322019,
+    "duration" : 6822
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "937727973989c06",
+  "name" : "check title link \"/drinks\"",
+  "time" : {
+    "start" : 1653311292780,
+    "stop" : 1653311294397,
+    "duration" : 1617
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c39e5dd8b61e521",
+  "name" : "login with INvalid credentials",
+  "time" : {
+    "start" : 1653311285252,
+    "stop" : 1653311351452,
+    "duration" : 66200
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "38a02173811ce1d4",
+  "name" : "check title link \"/gsalad\"",
+  "time" : {
+    "start" : 1653311289180,
+    "stop" : 1653311290787,
+    "duration" : 1607
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a541ec981a3ffb17",
+  "name" : "delete all pizzas",
+  "time" : {
+    "start" : 1653311297142,
+    "stop" : 1653311303097,
+    "duration" : 5955
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1df929b386277909",
+  "name" : "check title link \"/pizza\"",
+  "time" : {
+    "start" : 1653311285882,
+    "stop" : 1653311287064,
+    "duration" : 1182
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3d326e6503f4f41c",
+  "name" : "check title link \"/wings\"",
+  "time" : {
+    "start" : 1653311287064,
+    "stop" : 1653311288093,
+    "duration" : 1029
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "117f0baf41cf7bef",
+  "name" : "order all pizzas on the pizza page",
+  "time" : {
+    "start" : 1653311288011,
+    "stop" : 1653311292273,
+    "duration" : 4262
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4aee0455e18883da",
+  "name" : "order one pizza one salate one drink",
+  "time" : {
+    "start" : 1653311292273,
+    "stop" : 1653311297141,
+    "duration" : 4868
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "18443b71f777adc4",
+  "name" : "order one default pizza from pizza page",
+  "time" : {
+    "start" : 1653311283598,
+    "stop" : 1653311285731,
+    "duration" : 2133
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "edcd3c46b34041b0",
+  "name" : "delete adress",
+  "time" : {
+    "start" : 1653311297397,
+    "stop" : 1653311299554,
+    "duration" : 2157
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "17caa4c32bdf8fe",
+  "name" : "choose English language",
+  "time" : {
+    "start" : 1653311275845,
+    "stop" : 1653311284869,
+    "duration" : 9024
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a233c47a5e1b6e54",
+  "name" : "check phone number",
+  "time" : {
+    "start" : 1653311284869,
+    "stop" : 1653311285881,
+    "duration" : 1012
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "afe105fb784f1135",
+  "name" : "check title link \"/potato\"",
+  "time" : {
+    "start" : 1653311288093,
+    "stop" : 1653311289180,
+    "duration" : 1087
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "62429bcecc79a027",
+  "name" : "change password",
+  "time" : {
+    "start" : 1653311299554,
+    "stop" : 1653311315197,
+    "duration" : 15643
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "45f04cf183dbeed",
+  "name" : "check title link \"/starter\"",
+  "time" : {
+    "start" : 1653311290788,
+    "stop" : 1653311292780,
+    "duration" : 1992
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,62 @@
+{
+  "uid" : "edcd3c46b34041b0",
+  "name" : "delete adress",
+  "fullName" : "Profile.delete adress",
+  "historyId" : "b9d8068a7e2cb5445fce6514e90e3984",
+  "time" : {
+    "start" : 1653311297397,
+    "stop" : 1653311299554,
+    "duration" : 2157
+  },
+  "description" : "Удаление конкретного адреса из списка адресов. Проверка отсутсвия конкретного адреса в списке",
+  "descriptionHtml" : "<p>Удаление конкретного адреса из списка адресов. Проверка отсутсвия конкретного адреса в списке</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "Profile"
+  }, {
+    "name" : "testClass",
+    "value" : "Profile"
+  }, {
+    "name" : "testMethod",
+    "value" : "delete adress"
+  }, {
+    "name" : "package",
+    "value" : "Profile"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "edcd3c46b34041b0.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

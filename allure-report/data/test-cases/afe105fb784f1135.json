@@ -1,0 +1,62 @@
+{
+  "uid" : "afe105fb784f1135",
+  "name" : "check title link \"/potato\"",
+  "fullName" : "Header.check title link \"/potato\"",
+  "historyId" : "f9d8744f0cadaeee68a6de8d1248990b",
+  "time" : {
+    "start" : 1653311288093,
+    "stop" : 1653311289180,
+    "duration" : 1087
+  },
+  "description" : "Переход по ссылке в Header. Проверка title страницы",
+  "descriptionHtml" : "<p>Переход по ссылке в Header. Проверка title страницы</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Header"
+  }, {
+    "name" : "testClass",
+    "value" : "Header"
+  }, {
+    "name" : "testMethod",
+    "value" : "check title link \"/potato\""
+  }, {
+    "name" : "package",
+    "value" : "Header"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "afe105fb784f1135.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

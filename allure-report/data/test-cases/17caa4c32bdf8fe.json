@@ -1,0 +1,62 @@
+{
+  "uid" : "17caa4c32bdf8fe",
+  "name" : "choose English language",
+  "fullName" : "Header.choose English language",
+  "historyId" : "ed6b8e72ad300504650b5160d1095dc6",
+  "time" : {
+    "start" : 1653311275845,
+    "stop" : 1653311284869,
+    "duration" : 9024
+  },
+  "description" : "Переключение на английский язык. Проверка наличия кнопки Log in",
+  "descriptionHtml" : "<p>Переключение на английский язык. Проверка наличия кнопки Log in</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Header"
+  }, {
+    "name" : "testClass",
+    "value" : "Header"
+  }, {
+    "name" : "testMethod",
+    "value" : "choose English language"
+  }, {
+    "name" : "package",
+    "value" : "Header"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "17caa4c32bdf8fe.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

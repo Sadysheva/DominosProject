@@ -1,0 +1,62 @@
+{
+  "uid" : "38a02173811ce1d4",
+  "name" : "check title link \"/gsalad\"",
+  "fullName" : "Header.check title link \"/gsalad\"",
+  "historyId" : "d8e97af1a3b2eabcdbb92f0a5904b314",
+  "time" : {
+    "start" : 1653311289180,
+    "stop" : 1653311290787,
+    "duration" : 1607
+  },
+  "description" : "Переход по ссылке в Header. Проверка title страницы",
+  "descriptionHtml" : "<p>Переход по ссылке в Header. Проверка title страницы</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Header"
+  }, {
+    "name" : "testClass",
+    "value" : "Header"
+  }, {
+    "name" : "testMethod",
+    "value" : "check title link \"/gsalad\""
+  }, {
+    "name" : "package",
+    "value" : "Header"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "38a02173811ce1d4.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

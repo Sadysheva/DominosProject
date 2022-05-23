@@ -1,0 +1,62 @@
+{
+  "uid" : "4aee0455e18883da",
+  "name" : "order one pizza one salate one drink",
+  "fullName" : "Orders.order one pizza one salate one drink",
+  "historyId" : "d40ef14ceba3e7464131660d90ecd30e",
+  "time" : {
+    "start" : 1653311292273,
+    "stop" : 1653311297141,
+    "duration" : 4868
+  },
+  "description" : "Добавление в корзину одной пиццы по умолчания, одного салата Цезарь, напитка Кока-кала 1л. Проверка иконки с количеством товаров.Проверка наличия 3х конкретных товаров в корзине.",
+  "descriptionHtml" : "<p>Добавление в корзину одной пиццы по умолчания, одного салата Цезарь, напитка Кока-кала 1л. Проверка иконки с количеством товаров.Проверка наличия 3х конкретных товаров в корзине.</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "Orders"
+  }, {
+    "name" : "testClass",
+    "value" : "Orders"
+  }, {
+    "name" : "testMethod",
+    "value" : "order one pizza one salate one drink"
+  }, {
+    "name" : "package",
+    "value" : "Orders"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4aee0455e18883da.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

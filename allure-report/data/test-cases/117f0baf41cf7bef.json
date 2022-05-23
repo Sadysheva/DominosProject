@@ -1,0 +1,62 @@
+{
+  "uid" : "117f0baf41cf7bef",
+  "name" : "order all pizzas on the pizza page",
+  "fullName" : "Orders.order all pizzas on the pizza page",
+  "historyId" : "81a20204b075f29dac3a3a59932ff9a",
+  "time" : {
+    "start" : 1653311288011,
+    "stop" : 1653311292273,
+    "duration" : 4262
+  },
+  "description" : "Добавление в корзину всех пицц на странице Пицца. Проверка отсуствия кнопки \"В корзину\" на странице",
+  "descriptionHtml" : "<p>Добавление в корзину всех пицц на странице Пицца. Проверка отсуствия кнопки &quot;В корзину&quot; на странице</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "Orders"
+  }, {
+    "name" : "testClass",
+    "value" : "Orders"
+  }, {
+    "name" : "testMethod",
+    "value" : "order all pizzas on the pizza page"
+  }, {
+    "name" : "package",
+    "value" : "Orders"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "117f0baf41cf7bef.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

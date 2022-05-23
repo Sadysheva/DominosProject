@@ -1,0 +1,62 @@
+{
+  "uid" : "a1831a269a28b148",
+  "name" : "add adress",
+  "fullName" : "Profile.add adress",
+  "historyId" : "e795d3556cc5b76a6ef482d39879d177",
+  "time" : {
+    "start" : 1653311289115,
+    "stop" : 1653311297397,
+    "duration" : 8282
+  },
+  "description" : "Добавление адреса доставки. Проверка баннера \"Адрес успешно добавлен\"",
+  "descriptionHtml" : "<p>Добавление адреса доставки. Проверка баннера &quot;Адрес успешно добавлен&quot;</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "Profile"
+  }, {
+    "name" : "testClass",
+    "value" : "Profile"
+  }, {
+    "name" : "testMethod",
+    "value" : "add adress"
+  }, {
+    "name" : "package",
+    "value" : "Profile"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a1831a269a28b148.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

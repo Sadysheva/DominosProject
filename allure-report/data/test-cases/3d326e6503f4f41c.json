@@ -1,0 +1,62 @@
+{
+  "uid" : "3d326e6503f4f41c",
+  "name" : "check title link \"/wings\"",
+  "fullName" : "Header.check title link \"/wings\"",
+  "historyId" : "f301c5d2bdd730a87a48ab45ddbb2412",
+  "time" : {
+    "start" : 1653311287064,
+    "stop" : 1653311288093,
+    "duration" : 1029
+  },
+  "description" : "Переход по ссылке в Header. Проверка title страницы",
+  "descriptionHtml" : "<p>Переход по ссылке в Header. Проверка title страницы</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Header"
+  }, {
+    "name" : "testClass",
+    "value" : "Header"
+  }, {
+    "name" : "testMethod",
+    "value" : "check title link \"/wings\""
+  }, {
+    "name" : "package",
+    "value" : "Header"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3d326e6503f4f41c.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

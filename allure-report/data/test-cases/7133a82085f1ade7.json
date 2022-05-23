@@ -1,0 +1,62 @@
+{
+  "uid" : "7133a82085f1ade7",
+  "name" : "check title link \"/sauce\"",
+  "fullName" : "Header.check title link \"/sauce\"",
+  "historyId" : "7d9b7c4b556b3c8d09eaa0846d2a6b7c",
+  "time" : {
+    "start" : 1653311294398,
+    "stop" : 1653311295353,
+    "duration" : 955
+  },
+  "description" : "Переход по ссылке в Header. Проверка title страницы",
+  "descriptionHtml" : "<p>Переход по ссылке в Header. Проверка title страницы</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Header"
+  }, {
+    "name" : "testClass",
+    "value" : "Header"
+  }, {
+    "name" : "testMethod",
+    "value" : "check title link \"/sauce\""
+  }, {
+    "name" : "package",
+    "value" : "Header"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7133a82085f1ade7.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

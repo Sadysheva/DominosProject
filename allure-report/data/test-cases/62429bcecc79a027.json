@@ -1,0 +1,62 @@
+{
+  "uid" : "62429bcecc79a027",
+  "name" : "change password",
+  "fullName" : "Profile.change password",
+  "historyId" : "6d4c67e9d46d273ebe8ebb66a46f292a",
+  "time" : {
+    "start" : 1653311299554,
+    "stop" : 1653311315197,
+    "duration" : 15643
+  },
+  "description" : "Изменение текущего пароля. Проверка успешности изменеия. Вход под новым паролем. проверка успешности входа. Изменения пароля на первоначальный. Проверка успешности входа",
+  "descriptionHtml" : "<p>Изменение текущего пароля. Проверка успешности изменеия. Вход под новым паролем. проверка успешности входа. Изменения пароля на первоначальный. Проверка успешности входа</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "Profile"
+  }, {
+    "name" : "testClass",
+    "value" : "Profile"
+  }, {
+    "name" : "testMethod",
+    "value" : "change password"
+  }, {
+    "name" : "package",
+    "value" : "Profile"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "62429bcecc79a027.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

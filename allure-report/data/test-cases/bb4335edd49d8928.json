@@ -1,0 +1,62 @@
+{
+  "uid" : "bb4335edd49d8928",
+  "name" : "log out",
+  "fullName" : "Log in.log out",
+  "historyId" : "eca04ba461dc47724bdd10602e82544",
+  "time" : {
+    "start" : 1653311351454,
+    "stop" : 1653311353076,
+    "duration" : 1622
+  },
+  "description" : "Выход из профиля покупателя. Проверка наличия кнопки \"Войти\"",
+  "descriptionHtml" : "<p>Выход из профиля покупателя. Проверка наличия кнопки &quot;Войти&quot;</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Log in"
+  }, {
+    "name" : "testClass",
+    "value" : "Log in"
+  }, {
+    "name" : "testMethod",
+    "value" : "log out"
+  }, {
+    "name" : "package",
+    "value" : "Log in"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bb4335edd49d8928.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

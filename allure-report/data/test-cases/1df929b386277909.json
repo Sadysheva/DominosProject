@@ -1,0 +1,62 @@
+{
+  "uid" : "1df929b386277909",
+  "name" : "check title link \"/pizza\"",
+  "fullName" : "Header.check title link \"/pizza\"",
+  "historyId" : "a97a5912d9c1b77b69c6f204d06fcba2",
+  "time" : {
+    "start" : 1653311285882,
+    "stop" : 1653311287064,
+    "duration" : 1182
+  },
+  "description" : "Переход по ссылке в Header. Проверка title страницы",
+  "descriptionHtml" : "<p>Переход по ссылке в Header. Проверка title страницы</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Header"
+  }, {
+    "name" : "testClass",
+    "value" : "Header"
+  }, {
+    "name" : "testMethod",
+    "value" : "check title link \"/pizza\""
+  }, {
+    "name" : "package",
+    "value" : "Header"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1df929b386277909.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

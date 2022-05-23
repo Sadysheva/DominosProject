@@ -1,0 +1,62 @@
+{
+  "uid" : "a233c47a5e1b6e54",
+  "name" : "check phone number",
+  "fullName" : "Header.check phone number",
+  "historyId" : "c98a276d9d23df6705901d9ee0dd8261",
+  "time" : {
+    "start" : 1653311284869,
+    "stop" : 1653311285881,
+    "duration" : 1012
+  },
+  "description" : "Проверка ссылки номера телефона,корректность номера",
+  "descriptionHtml" : "<p>Проверка ссылки номера телефона,корректность номера</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Header"
+  }, {
+    "name" : "testClass",
+    "value" : "Header"
+  }, {
+    "name" : "testMethod",
+    "value" : "check phone number"
+  }, {
+    "name" : "package",
+    "value" : "Header"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a233c47a5e1b6e54.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

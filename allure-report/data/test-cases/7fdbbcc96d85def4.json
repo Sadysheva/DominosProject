@@ -1,0 +1,62 @@
+{
+  "uid" : "7fdbbcc96d85def4",
+  "name" : "input not the same password in \"repeat password\" field",
+  "fullName" : "Profile.input not the same password in \"repeat password\" field",
+  "historyId" : "13c8e9d3d6ac9db4c559283d5c8fb5f5",
+  "time" : {
+    "start" : 1653311315197,
+    "stop" : 1653311322019,
+    "duration" : 6822
+  },
+  "description" : "Ввода разнных паролей при изменеии пароля. Проверка, что кнопка \"Сохранить\" недоступна",
+  "descriptionHtml" : "<p>Ввода разнных паролей при изменеии пароля. Проверка, что кнопка &quot;Сохранить&quot; недоступна</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "Profile"
+  }, {
+    "name" : "testClass",
+    "value" : "Profile"
+  }, {
+    "name" : "testMethod",
+    "value" : "input not the same password in \"repeat password\" field"
+  }, {
+    "name" : "package",
+    "value" : "Profile"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7fdbbcc96d85def4.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

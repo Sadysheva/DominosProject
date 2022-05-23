@@ -1,0 +1,62 @@
+{
+  "uid" : "c39e5dd8b61e521",
+  "name" : "login with INvalid credentials",
+  "fullName" : "Log in.login with INvalid credentials",
+  "historyId" : "30717ec6a13bd7c2cac13f733dc35c14",
+  "time" : {
+    "start" : 1653311285252,
+    "stop" : 1653311351452,
+    "duration" : 66200
+  },
+  "description" : "Авторизация с INvalid credentials. Проверка наличия окна ошибки",
+  "descriptionHtml" : "<p>Авторизация с INvalid credentials. Проверка наличия окна ошибки</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Log in"
+  }, {
+    "name" : "testClass",
+    "value" : "Log in"
+  }, {
+    "name" : "testMethod",
+    "value" : "login with INvalid credentials"
+  }, {
+    "name" : "package",
+    "value" : "Log in"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c39e5dd8b61e521.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

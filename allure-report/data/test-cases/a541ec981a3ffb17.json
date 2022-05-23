@@ -1,0 +1,62 @@
+{
+  "uid" : "a541ec981a3ffb17",
+  "name" : "delete all pizzas",
+  "fullName" : "Orders.delete all pizzas",
+  "historyId" : "ef325eac66ae2b1349e24ae9d2ea7377",
+  "time" : {
+    "start" : 1653311297142,
+    "stop" : 1653311303097,
+    "duration" : 5955
+  },
+  "description" : "Удаление из корзины всех пицц добавленных со страницы Пицца. Проверка, что сумма товаров в корзине равно нулю",
+  "descriptionHtml" : "<p>Удаление из корзины всех пицц добавленных со страницы Пицца. Проверка, что сумма товаров в корзине равно нулю</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "Orders"
+  }, {
+    "name" : "testClass",
+    "value" : "Orders"
+  }, {
+    "name" : "testMethod",
+    "value" : "delete all pizzas"
+  }, {
+    "name" : "package",
+    "value" : "Orders"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a541ec981a3ffb17.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

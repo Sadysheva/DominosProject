@@ -1,0 +1,62 @@
+{
+  "uid" : "3ad48f626f5b99d5",
+  "name" : "login with valid credentials",
+  "fullName" : "Log in.login with valid credentials",
+  "historyId" : "99342d2cd935b6331790528f295d451a",
+  "time" : {
+    "start" : 1653311275846,
+    "stop" : 1653311285251,
+    "duration" : 9405
+  },
+  "description" : "Авторизация с valid credentials. Проверка наличия поля Бонус",
+  "descriptionHtml" : "<p>Авторизация с valid credentials. Проверка наличия поля Бонус</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Log in"
+  }, {
+    "name" : "testClass",
+    "value" : "Log in"
+  }, {
+    "name" : "testMethod",
+    "value" : "login with valid credentials"
+  }, {
+    "name" : "package",
+    "value" : "Log in"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3ad48f626f5b99d5.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

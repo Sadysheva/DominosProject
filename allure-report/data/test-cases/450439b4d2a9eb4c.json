@@ -1,0 +1,62 @@
+{
+  "uid" : "450439b4d2a9eb4c",
+  "name" : "order two the same defaul pizzas from pizza page",
+  "fullName" : "Orders.order two the same defaul pizzas from pizza page",
+  "historyId" : "368697f932601cf545e8ae0612b08867",
+  "time" : {
+    "start" : 1653311286934,
+    "stop" : 1653311288011,
+    "duration" : 1077
+  },
+  "description" : "Добавление в корзину двух одинаковых пицц. Проверка,что сумма в корзине соответствует стоимости одной пиццы умноженной на 2",
+  "descriptionHtml" : "<p>Добавление в корзину двух одинаковых пицц. Проверка,что сумма в корзине соответствует стоимости одной пиццы умноженной на 2</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "Orders"
+  }, {
+    "name" : "testClass",
+    "value" : "Orders"
+  }, {
+    "name" : "testMethod",
+    "value" : "order two the same defaul pizzas from pizza page"
+  }, {
+    "name" : "package",
+    "value" : "Orders"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "450439b4d2a9eb4c.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}
